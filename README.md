@@ -32,12 +32,12 @@ Tampilan makro yang melacak konsistensi kinerja Nilai Pesanan Rata-rata (AOV) ya
 Pelacakan kinerja variabel tunggal strategis yang difokuskan murni pada metrik total penjualan kotor dan kontribusi pendapatan dasar.
 ![Isolated Gross Sales Revenue Visual](Preview5.png)
 
-## 📁 Struktur Proyek
+## Struktur Project
 - `retail_mall_data.csv`: Data operasional yang telah dibersihkan untuk transaksi pusat perbelanjaan.
 - `Retail_Analytics_Dashboard.pbix`: File laporan Power BI dinamis dengan filter silang aktif dan susunan metrik.
 - `README.md`: Dokumentasi teknis proyek dan ringkasan.
 
-## 💡 Metrik Utama yang Dilacak
+## Metrik Utama yang Dilacak
 1. **Nilai Pesanan Rata-rata (Average Order Value / AOV):** Memantau nilai keranjang konsumen individu di seluruh pergeseran musiman.
 2. **Pendapatan Penjualan Kotor:** Menghitung total output pendapatan setelah mengategorikan parameter data.
 3. **Total Volume Transaksi:** Mengevaluasi permintaan toko dan volume lalu lintas pelanggan di mall tertentu.
